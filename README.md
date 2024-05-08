@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayderb
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Front-End Web design Projects
 - 📫 How to reach me Jaykalobwe18@gmail.com
