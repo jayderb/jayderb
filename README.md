@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jayderb
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Front-End Web design Projects
+- 👋 Hi, I’m Legend
+- 👀 I’m interested in Data Analysis, Software Engineering, Ethical Hacking
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on Backend-End Web design Projects
 - 📫 How to reach me Jaykalobwe18@gmail.com
 
 <!---
